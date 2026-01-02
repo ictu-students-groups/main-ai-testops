@@ -20,5 +20,4 @@ body:
         - Low
   - type: input
     attributes:
-      label: Derived from
-      EPIC: #01
+      label: Derived from <# epic>
